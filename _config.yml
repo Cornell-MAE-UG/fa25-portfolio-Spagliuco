@@ -8,10 +8,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Sara Pagliuco
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
+name                     : Sara Pagliuco
 description              : Your Name - Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
@@ -43,3 +43,4 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
+bundle install
