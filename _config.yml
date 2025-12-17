@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sara Pagliuco
 description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/spring-2025-portfolio-Pagliuco/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
@@ -43,4 +43,3 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
-bundle install
