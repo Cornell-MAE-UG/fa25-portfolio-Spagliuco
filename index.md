@@ -6,9 +6,7 @@ title: <Your Name>
 ## About Me
 
 
-![Profile Picture]({{ "/assets/images/profile-pic.jpg" | relative_url}}){: class="profile-image"}
-
-![Alt text]({{ "/assets/images/my-image.png" | relative_url }})
+![Profile Picture]({{ /assets/images/profile-pic.jpg}}){: class="profile-image"}
  
 My name is {{ site.name }}, and I am a class of Spring 2026 Mechanical Engineer.
 
