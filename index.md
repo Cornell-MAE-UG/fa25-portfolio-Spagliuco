@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Sara Pagliuco Portfolio Homepage
 ---
 
 ## About Me

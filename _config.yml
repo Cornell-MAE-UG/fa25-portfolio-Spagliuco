@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Sara Pagliuco
+title                    : "Sara Pagliuco"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sara Pagliuco
-description              : Your Name - Projects and CV 
+description              : Sara Pagliuco - Projects and CV 
 baseurl                  : "/fa25-portfolio-Spagliuco/" # Set this to your repo name 
 
 # Theme and Style
