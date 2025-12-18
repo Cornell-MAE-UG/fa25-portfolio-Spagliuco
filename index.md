@@ -6,7 +6,7 @@ title: <Your Name>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "/assets/images/profile-pic.jpg"}}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am a class of Spring 2026 Mechanical Engineer.
@@ -25,18 +25,14 @@ Output: Chord length, Pitch, Twist, and a max stress of 239.52 kPa.
 
 ![Profile Picture]({{ "assets/images/blade1.png" | relative_url }}){: class="profile-image"}
 
-
-
-
-
 Testing summary: To test the design of the blades, a wind tunnel was used to collect power curves at different wind speed controlled by the fan frequency. This was done by ramping a torque voltage input to the blade motor to zero, increasing the wind tunnel fan to a specific frequency, and then increasing the torque voltage by .2 and collecting data using the LabView at each point. 
 
 This resulted in power curves:
-
-
+![Profile Picture]({{ "assets/images/powercurves.png" | relative_url }}){: class="profile-image"}
 
 Which allowed for extrapolation at each wind speed to find the power output at the ideal RPM chosen, and compare with the therotical power output:
 
+![Profile Picture]({{ "assets/images/expirementalvstheoretical.png" | relative_url }}){: class="profile-image"}
 
 
 Your contribution: Briefly describe what you worked on
