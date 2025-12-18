@@ -6,9 +6,9 @@ title: <Your Name>
 ## About Me
 
 
-![Profile Picture](/assets/images/profile-pic.jpg){: class="profile-image"}
+![Profile Picture]({{"/assets/images/profile-pic.jpg" | relative_url}}){: class="profile-image"}
  
-My name is {{ site.name }}, and I am a class of Spring 2026 Mechanical Engineer. POOP
+My name is {{ site.name }}, and I am a class of Spring 2026 Mechanical Engineer.
 
 MAE 4272 BLADE PROJECT: 
 
